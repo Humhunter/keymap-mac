@@ -1,6 +1,3 @@
-# keymap-mac
-pycharm的mac版本的keymap
-
 # IntelliJ IDEA 常用快捷键 之 Mac 版
 
 > **温馨提示**：在 IntelliJ IDEA 中有两个 Mac 版本的快捷键，分别为 Mac OS X 和 Mac OS X 10.5+， 其中 Mac OS X 10.5+ 为 IntelliJ IDEA 默认的快捷键版本。此外，建议将 Mac 系统中与 IntelliJ IDEA 冲突的快捷键取消或更改，不建议改 IntelliJ IDEA 的默认快捷键。 
